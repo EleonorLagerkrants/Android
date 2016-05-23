@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Homework</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- RandomActivity -->
+    <string name="RandomB">New Random</string>
+    <string name="app_name_random">Random Number</string>
+
+    <!-- BMIActivity -->
+    <string name="app_name_bmi">BMI Calculator</string>
+    <string name="title_activity_bmi">BMIActivity</string>
+    <string name="heightText">Enter your height in meters</string>
+    <string name="BMITitle">BMI Calculator</string>
+    <string name="weightText">Enter your weight in kilos</string>
+    <string name="computeB">Compute</string>
+    <string name="resetB">Reset</string>
+
+    <!-- CountryActivity -->
+    <string name="title_activity_country_view">CountryView</string>
+    <string name="action_add">Add Country</string>
+    <string name="title_activity_add_country">AddCountry</string>
+    <string name="countryText">Country:</string>
+    <string name="yearText">Year:</string>
+    <string name="addButton">Add Country</string>
+
+    <!-- VaxjoWeatherActivity -->
+    <string name="hello">Last updated: </string>
+    <string name="app_name_weather">VaxjoWeather</string>
+    <string name="settings">Settings</string>
+    <string name="date">%1$s  </string>
+    <string name="celsius">%1$s °C</string>
+    <string name="time">%1$s - %2$s  </string>
+    <string name="sunny">Sunny</string>
+    <string name="rain">Rainy</string>
+    <string name="cloud">Cloudy</string>
+    <string name="pour">%1$s mm/h</string>
+    <string name="speed">%1$s m/s</string>
+    <string name="title_activity_beer">BeerActivity</string>
+
+    <!-- BeerActivity -->
+    <string name="beerTitle">Beer %1$s out of %2$s</string>
+    <string name="app_name_beer">BeerPager</string>
+
+</resources>

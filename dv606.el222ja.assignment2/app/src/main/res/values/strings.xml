@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">assignment2</string>
+
+    <!-- MyCountriesActivity !-->
+    <string name="title_activity_my_countries1">MyCountriesActivity</string>
+    <string name="menu_add">Add</string>
+    <string name="sort">Sort List</string>
+    <string name="sort_country_asc">Sort By Country (Ascending Order)</string>
+    <string name="sort_country_desc">Sort By Country (Descending Order)</string>
+    <string name="sort_year_asc">Sort By Year (Ascending Order)</string>
+    <string name="sort_year_desc">Sort By Year (Descending Order)</string>
+    <string name="event_edit">Edit</string>
+    <string name="event_delete">Delete</string>
+    <string name="title_activity_add_country">AddCountry</string>
+    <string name="countryText">Country:</string>
+    <string name="yearText">Year:</string>
+    <string name="addButton">Add Country</string>
+    <string name="editButton">Edit Country</string>
+    <string name="title_activity_edit_country">EditCountry</string>
+
+
+    <!-- AlarmClock !-->
+    <string name="title_activity_alarm_clock">AlarmClock</string>
+    <string name="title_activity_set_alarm_time">SetAlarmTime</string>
+    <string name="title_activity_dialog">DialogActivity</string>
+    <string name="current_time_label">Current Time</string>
+    <string name="current_alarm_label">Current Alarm</string>
+    <string name="set_alarm_button">Set New Alarm</string>
+    <string name="remove_alarm_button">Remove Current Alarm</string>
+    <string name="set_time_button">Set Time</string>
+    <string name="set_alarm_label">Set Alarm Time</string>
+    <string name="set_message_label">Set Alarm Message</string>
+    <string name="dialog_title">Alarm</string>
+    <string name="dialog_message">Turn off the alarm by openening the notification.</string>
+    <string name="dialog_button">OK</string>
+
+    <!--MP3 Player !-->
+    <string name="title_activity_mp3">MP3 Player</string>
+    <string name="nosd">Media storage is not available</string>
+    <string name="error">Player crashed</string>
+    <string name="stop_playback">Stop playback</string>
+    <string name="not_title">Now playing:</string>
+
+</resources>

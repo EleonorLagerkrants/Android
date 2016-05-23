@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+        android:entries="@array/colorNames"
+        android:entryValues="@array/colorValues"
+        android:key="backColor"
+        android:title="Set The Background Color" />
+
+    <ListPreference
+        android:entries="@array/colorNames"
+        android:entryValues="@array/colorValues"
+        android:key="textColor"
+        android:title="Set The Text Color" />
+
+    <ListPreference
+        android:entries="@array/sizeNames"
+        android:entryValues="@array/sizeValues"
+        android:key="fontSize"
+        android:title="Set The Font Size" />
+
+
+</PreferenceScreen>

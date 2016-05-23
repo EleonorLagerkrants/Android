@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="dv606.el222ja.assignment2.MyCountriesActivity">
+
+    <item android:id="@+id/menu_add"
+        android:title="@string/menu_add"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/sort"
+        android:title="@string/sort"
+        app:showAsAction="ifRoom" >
+    <menu>
+        <item android:id="@+id/sort_country_asc"
+            android:title="@string/sort_country_asc" />
+        <item android:id="@+id/sort_country_desc"
+            android:title="@string/sort_country_desc" />
+        <item android:id="@+id/sort_year_asc"
+            android:title="@string/sort_year_asc" />
+        <item android:id="@+id/sort_year_desc"
+        android:title="@string/sort_year_desc" />
+    </menu>
+    </item>
+
+    <item android:id="@+id/set_pref"
+        android:title="Set Preference"
+        app:showAsAction="ifRoom" />
+
+
+
+</menu>
